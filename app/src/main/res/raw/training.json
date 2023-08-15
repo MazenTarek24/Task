@@ -1,0 +1,46 @@
+{
+  "trainingSeries": {
+    "coverPhoto": "https://www.pngfind.com/pngs/m/327-3273062_ns-0065-people-cutout-cut-out-people-render.png",
+    "seriesName": "Fitness Journey",
+    "coaches": [
+      {
+        "coachName": "mazen tarek ali ",
+        "coachBio": "Certified fitness trainer with 10+ years of experience.",
+        "coachPhoto": ""
+      },
+      {
+        "coachName": "mohamed tarek ali",
+        "coachBio": "Personal trainer and nutrition expert.",
+        "coachPhoto": ""
+      }
+    ],
+    "overviewSection": {
+      "description": "  Join our comprehensive fitness journey Join our comprehensive fitness journey Join our comprehensive fitness journey...",
+      "overviewVideo": ""
+    },
+    "classes": [
+      {
+        "className": "Introduction to Fitness",
+        "classDescription": "Learn the basics of fitness...",
+        "classVideo": ""
+      },
+      {
+        "className": "Strength Training Techniques",
+        "classDescription": "Discover effective strength training...",
+        "classVideo": ""
+      }
+    ],
+    "communitySocialFeed": [
+      {
+        "postText": "Just completed the Introduction to Fitness class. Feeling great!",
+        "userAvatar": "",
+        "timestamp": "2023-08-15T10:30:00Z"
+      },
+      {
+        "postText": "Looking forward to the upcoming Nutrition Workshop...",
+        "userAvatar": "path/to/another-user-avatar.jpg",
+        "timestamp": "2023-08-15T15:45:00Z"
+      }
+    ]
+  }
+}
